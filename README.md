@@ -1,4 +1,4 @@
-# [ExtensionFox Store](https://extfox.pro) - Powerful Chrome Extensions for Instagram Marketers
+# [ExtFox Pro](https://extfox.pro) - Powerful Chrome Extensions for Instagram Marketers
 
 ![hero-dark](https://github.com/user-attachments/assets/e131034d-8e6b-4a23-a5df-3d0165761996)
 
